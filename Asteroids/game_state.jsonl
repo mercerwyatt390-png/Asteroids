@@ -1,16 +1,8 @@
-{"timestamp": "19:26:03.125", "elapsed_s": 0, "frame": 60, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.157", "elapsed_s": 0, "frame": 120, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.185", "elapsed_s": 0, "frame": 180, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.213", "elapsed_s": 0, "frame": 240, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.241", "elapsed_s": 0, "frame": 300, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.271", "elapsed_s": 0, "frame": 360, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.297", "elapsed_s": 0, "frame": 420, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.324", "elapsed_s": 0, "frame": 480, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.352", "elapsed_s": 0, "frame": 540, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.379", "elapsed_s": 0, "frame": 600, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.406", "elapsed_s": 0, "frame": 660, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.435", "elapsed_s": 0, "frame": 720, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.461", "elapsed_s": 0, "frame": 780, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.490", "elapsed_s": 0, "frame": 840, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.518", "elapsed_s": 0, "frame": 900, "screen_size": [1280, 720]}
-{"timestamp": "19:26:03.545", "elapsed_s": 0, "frame": 960, "screen_size": [1280, 720]}
+{"timestamp": "21:20:27.244", "elapsed_s": 0, "frame": 60, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}]}}
+{"timestamp": "21:20:28.211", "elapsed_s": 1, "frame": 120, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}]}}
+{"timestamp": "21:20:29.179", "elapsed_s": 2, "frame": 180, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}]}}
+{"timestamp": "21:20:30.147", "elapsed_s": 3, "frame": 240, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [666.45, 290.73], "vel": [0.0, 0.0], "rad": 20, "rot": -96.9}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [666.45, 290.73], "vel": [0.0, 0.0], "rad": 20, "rot": -96.9}]}}
+{"timestamp": "21:20:31.114", "elapsed_s": 4, "frame": 300, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [634.11, 137.61], "vel": [0.0, 0.0], "rad": 20, "rot": -62.7}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [634.11, 137.61], "vel": [0.0, 0.0], "rad": 20, "rot": -62.7}]}}
+{"timestamp": "21:20:32.081", "elapsed_s": 5, "frame": 360, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [543.49, 282.08], "vel": [0.0, 0.0], "rad": 20, "rot": -192.9}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [543.49, 282.08], "vel": [0.0, 0.0], "rad": 20, "rot": -192.9}]}}
+{"timestamp": "21:20:33.049", "elapsed_s": 6, "frame": 420, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [515.82, 375.18], "vel": [0.0, 0.0], "rad": 20, "rot": -105.6}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [515.82, 375.18], "vel": [0.0, 0.0], "rad": 20, "rot": -105.6}]}}
+{"timestamp": "21:20:34.018", "elapsed_s": 7, "frame": 480, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [515.82, 375.18], "vel": [0.0, 0.0], "rad": 20, "rot": -105.6}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [515.82, 375.18], "vel": [0.0, 0.0], "rad": 20, "rot": -105.6}]}}
